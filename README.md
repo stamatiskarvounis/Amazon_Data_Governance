@@ -87,6 +87,6 @@ Clearview AI
 - Ethical Concerns: Privacy violations, unlawful data processing, lack of transparency, and data monetization.
 Health Tracking Services
 - Ethical Concerns: Unauthorized exposure of health data, inadequate security measures, and data monetization without consent.
-- 
+  
 ## Conclusion
 This case study underscores the importance of ethical data practices, compliance with GDPR, and effective data governance. Both AI-enabled surveillance and health data monetization cases highlight the need for robust privacy measures and transparency in handling sensitive information.
